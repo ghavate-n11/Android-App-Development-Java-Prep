@@ -1,3 +1,5 @@
+(Projects will be added in the next few days....)
+
 # 📱 Android Mobile App Development Preparation using Java
 
 A comprehensive repository containing **structured study materials, PPTs, notes, Android projects, interview questions, and deployment guides** to prepare for **Android Mobile Application Development using Java**.
